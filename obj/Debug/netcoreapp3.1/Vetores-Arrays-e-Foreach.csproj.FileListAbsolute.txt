@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\bin\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\bin\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\bin\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\bin\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\bin\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\bin\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Vetores-Arrays-e-Foreach\obj\Debug\netcoreapp3.1\Vetores-Arrays-e-Foreach.genruntimeconfig.cache

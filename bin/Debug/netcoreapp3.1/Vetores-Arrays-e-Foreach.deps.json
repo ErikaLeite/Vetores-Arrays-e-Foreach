@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vetores-Arrays-e-Foreach/1.0.0": {
+        "runtime": {
+          "Vetores-Arrays-e-Foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vetores-Arrays-e-Foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
